@@ -13,3 +13,7 @@ Example of [my code](https://gist.github.com/gohkaisen10/2f75d01fcd01e400d62ad3b
 #### Colab
 
 This is the [notebook](https://github.com/gohkaisen10/Coursera-Cloud-Computing/blob/main/Practice_Markdown.ipynb)
+
+### Images
+
+<img width="316" height="114" alt="image" src="https://github.com/user-attachments/assets/d3c4612f-2da2-4f6f-a977-1f90f67a68e4" />
